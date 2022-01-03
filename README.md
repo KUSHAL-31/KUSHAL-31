@@ -36,14 +36,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="font-color: red">
-<a href="https://twitter.com/_devanshtrivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_devanshtrivedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-trivedi-a937851b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devansh-trivedi-a937851b0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/devansh.trivedi.100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/devansh.trivedi.100/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__devanshtrivedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/__devanshtrivedi/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/devtri_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/devtri_2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/tridevansh_16061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tridevansh_16061" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/devansh-trivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/devansh-trivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/devansh-trivedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/devansh-trivedi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kushal-soni-48745b18a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kushal-soni-48745b18a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_kushal31_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_kushal31_/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kushal_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kushal_31" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/k31coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/k31coding" height="30" width="40" /></a>
+<a href="https://leetcode.com/Kushal_31/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Kushal_31/" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -56,18 +53,19 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3>Community</h3>
+<h3>I am a</h3>
 <p>
-  * Google Cloud Facilitator
+  Full stack Web developer
 <br>
-* Open Source Contributer
+  Compitetive programmer
 <br>
+  Data science and AI enthusiast
 </p>
 
-<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-trivedi&show_icons=true&locale=en&layout=compact" alt="devansh-trivedi" /></p>
+<!---<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KUSHAL-31&show_icons=true&locale=en&layout=compact" alt="kushal-soni" /></p>
 <br>--->
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-trivedi&show_icons=true&locale=en" alt="devansh-trivedi" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&show_icons=true&locale=en" alt="kushal-soni" /></p>
 <br>
 
-<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/Devansh-Trivedi?tab=repositories"> repositories!</a></h4>
+<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/KUSHAL-31?tab=repositories"> repositories!</a></h4>
 </p>
