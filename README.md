@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devansh-Trivedi?tab=repositories](https://github.com/Devansh-Trivedi?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/KUSHAL-31](https://github.com/KUSHAL-31)
 
-- 📫 How to reach me **tridevansh.160601@gmail.com**
+- 📫 How to reach me **k31coding@gmail.com**
 
-- 📄 Know about my experiences [https://devansh-trivedi.netlify.app/](https://devansh-trivedi.netlify.app/)
+- 📄 Know about my experiences [https://github.com/KUSHAL-31](https://github.com/KUSHAL-31)
 
-- ⚡ Fun fact **I don't fear to experiment new things**
+- ⚡ Fun fact **I never giveup and keep challenging myself to achieve the goal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="font-color: red">
