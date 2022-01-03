@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3>I am a</h3>
+<h3>I am currently a </h3>
 <p>
   Full stack Web developer
 <br>
