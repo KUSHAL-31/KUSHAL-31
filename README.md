@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently practicing DSA.
 - 🤠 I am a MERN stack developer.
 - 💬 Looking forward to collaborate on web dev projects.
-- ⚡ Fun fact: Tollywood and Kollywood Lover :sunglasses:
+- ⚡ Super active on competitive coding platforms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="font-color: red">
