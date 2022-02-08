@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - 💬 Looking forward to collaborate on web dev projects.
 - ⚡ Super active on competitive coding platforms.
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="font-color: red">
 <a href="https://www.linkedin.com/in/kushal-soni-48745b18a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kushal-soni-48745b18a/" height="30" width="40" /></a>
