@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 <br>
 
+- 🔭 I’m currently learning Flutter.
+- 🌱 I’m currently practicing DSA.
+- 👯 I am a MERN stack developer.
+- 💬 Looking forward to collaborate on web dev projects.
+- ⚡ Fun fact: Tollywood and Kollywood Lover :sunglasses:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="font-color: red">
 <a href="https://www.linkedin.com/in/kushal-soni-48745b18a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kushal-soni-48745b18a/" height="30" width="40" /></a>
@@ -39,7 +45,6 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/Kushal_31/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/Kushal_31/" height="30" width="40" /></a>
 </p>
 
-<br>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 <br>
 <h3 align="center">Languages and Tools:</h3>
