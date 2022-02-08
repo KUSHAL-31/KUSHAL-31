@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <br>
 <h3>I am currently a </h3>
 <p>
-  Full stack Web developer
+  Full stack Developer
 <br>
-  Compitetive programmer
+  Compititive programmer
 <br>
   Data science and AI enthusiast
 </p>
