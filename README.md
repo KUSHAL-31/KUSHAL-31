@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/69379788?s=40&v=4" alt="kushal-soni" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/_devanshtrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/_devanshtrivedi?logo=twitter&style=for-the-badge" alt="_devanshtrivedi" /></a> </p>
-
-
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/KUSHAL-31](https://github.com/KUSHAL-31)
 
 - 📫 How to reach me **k31coding@gmail.com**
