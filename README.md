@@ -60,15 +60,15 @@ Here are some ideas to get you started:
 <br>--->
 ### :trophy: My Github Stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&&show_icons=true&theme=tokyonight">
 </div>
 </br>
 <div align="center"> 
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SanskritiKushik5&theme=react-dark">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=KUSHAL-31&theme=react-dark">
 </div>
 </br>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiKushik5&show_icons=true&theme=tokyonight&fire=DD2727">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KUSHAl-31&show_icons=true&theme=tokyonight&fire=DD2727">
 </div>
 
 <h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/KUSHAL-31?tab=repositories"> repositories!</a></h4>
