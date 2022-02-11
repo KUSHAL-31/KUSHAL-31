@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm an IT engineering student and improving my coding skills consistently</h3>
 
 <span align="left"> <img src="https://avatars.githubusercontent.com/u/69379788?s=40&v=4" alt="kushal-soni" /> </span>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=KUSHAL-31.KUSHAL-31">  <img src="https://img.shields.io/github/followers/KUSHAL-31?label=Follow&style=social)](https://github.com/KUSHAL-31">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=KUSHAL-31.KUSHAL-31" style="margin-left:20px;">  <img src="https://img.shields.io/github/followers/KUSHAL-31?label=Follow&style=social)](https://github.com/KUSHAL-31">
 
 
 
