@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🔭 I’m currently learning Flutter.
+- 🔭 I’m a Flutter App Developer.
 - 🌱 I’m currently practicing DSA.
 - 🤠 I am a MERN stack developer.
 - 💬 Looking forward to collaborate on web dev projects.
