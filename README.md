@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Kushal Soni</h1>
-<h3 align="center">I'm an IT engineering student and improving my coding skills consistently</h3>
+<h3 align="center">I'm an IT Graduate and now improving my coding skills consistently</h3>
 
 <span align="left" style="margin-right:50px !important"> <img src="https://avatars.githubusercontent.com/u/69379788?s=40&v=4" alt="kushal-soni" /> </span>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=KUSHAL-31.KUSHAL-31">  <img src="https://img.shields.io/github/followers/KUSHAL-31?label=Follow&style=social)](https://github.com/KUSHAL-31">
