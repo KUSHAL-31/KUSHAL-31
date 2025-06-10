@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on ReactJS and FLutter<br>👯 I’m looking to collaborate on Web / App development<br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning React Native and Data Engineering<br>💬 Ask me about Technology<br>💻 My portfolio website for more details: <a href="https://kushalsoni.netlify.app/" target="_blank">kushalsoni.netlify.app</a>
+🔭 I’m currently working on ReactJS and FLutter<br>👯 I’m looking to collaborate on Web / App development<br>🤝 I’m looking for help with AI and ML<br>🌱 I’m currently learning React Native and Data Engineering<br>💬 Ask me about Technology<br>💻 My portfolio website for more details: <a href="https://kushalsoni.tech/" target="_blank">kushalsoni.tech</a>
 
 
 ## 🌐 Socials:
