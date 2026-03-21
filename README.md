@@ -1,3 +1,57 @@
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">, I'm Kushal Soni</h1>
+<h3 align="center">Product Engineer · Full-Stack Developer · Systems Builder from Mumbai 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/69379788?s=100&v=4" alt="kushal-soni" width="100"/>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KUSHAL-31.KUSHAL-31"/>
+  <img src="https://img.shields.io/github/followers/KUSHAL-31?label=Follow&style=social"/>
+</p>
+
+<p align="center">
+  <a href="https://kushalsoni.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kushalsoni.tech-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kushal-soni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kushalsoni.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kushalsoni.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+high-throughput+systems+at+scale+%F0%9F%9A%80;3M+rows+processed+%7C+40%25+faster+pipelines;Microservices+%7C+Observability+%7C+RAG+%7C+SaaS;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG"/>
+</p>
+
+---
+
+## 💫 About Me
+
+- 🔭 Currently working as **Product Engineer @ Shuru Technologies** — building high-performance form engines, pricing microservices, and SEO-optimized Next.js platforms
+- 🏢 Previously **SDE @ Mitt Arv Technologies** — reduced API latency by 45%, set up Prometheus + Grafana observability on 1M daily events
+- 🧠 Deep interest in **Distributed Systems, Microservices Architecture, and AI/RAG Applications**
+- 🤝 Open to collaborate on **SaaS products, developer tooling, and backend-heavy systems**
+- 🌱 Currently exploring **Data Engineering** and **LLM-powered applications**
+- 🎓 B.E. Information Technology — **CGPA 9.02/10**, Rajiv Gandhi Institute of Technology, Mumbai University
+- 💻 Portfolio: <a href="https://kushalsoni.tech/" target="_blank">kushalsoni.tech</a>
+
+---
+
+## ⚡ Impact at Scale
+
+| | Metric | Result |
+|--|--------|--------|
+| 📄 | Form processing engine | 3M rows · 40% faster via streaming + chunked writes |
+| ⚡ | API latency reduction | 45% cut via caching, SQL indexing & N+1 elimination |
+| 💰 | Pricing microservice | 10K+ evaluations/day at p95 latency |
+| 📊 | Observability pipeline | 1M daily events · 35% lower MTTR with Prometheus + Grafana |
+| 🛡️ | Error rate reduction | 20% via async ingestion + failure isolation |
+| ✅ | Test coverage | 85% across high-throughput releases |
+| 🔒 | Secure file sharing | 10K monthly shared assets with time-bound access |
+
 ---
 
 ## 🌐 Socials
@@ -5,7 +59,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-soni/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_kushal.31/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kushalsoni.tech/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
 
 ---
 
@@ -16,7 +69,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Backend & APIs**
@@ -53,7 +105,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -65,9 +117,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSHAL-31&theme=tokyonight&hide_border=false" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSHAL-31&theme=tokyonight&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
@@ -99,5 +151,3 @@
     <img src="https://visitcount.itsvg.in/api?id=KUSHAL-31&icon=2&color=6"/>
   </a>
 </p>
-
-<!-- Proudly updated with real experience and impact metrics -->
