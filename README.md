@@ -136,12 +136,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAL-31&theme=tokyonight&no-frame=true&margin-w=6&column=4"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-tokyonight?style=for-the-badge&logo=github&logoColor=white&color=1a1b27"/>
+  <img src="https://img.shields.io/github/stars/KUSHAL-31?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=1a1b27"/>
+  <img src="https://img.shields.io/github/followers/KUSHAL-31?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1a1b27"/>
 </p>
-
 ---
 
 ## 📈 Contribution Graph
