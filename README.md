@@ -114,12 +114,24 @@
 
 ---
 
+## 🧠 What I'm Currently Into
+
+- 🔬 Building **AI-powered RAG pipelines** with LangChain, OpenAI & vector DBs
+- 📡 Designing **event-driven architectures** with Kafka and async message queues
+- 📈 Improving system observability with **custom Grafana dashboards**
+- 🧪 Exploring **prompt engineering** and LLM integration patterns for production apps
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUSHAL-31&theme=tokyonight&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=KUSHAL-31&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
@@ -127,7 +139,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAL-31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAL-31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSHAL-31&theme=tokyo-night&hide_border=false"/>
 </p>
 
 ---
@@ -137,6 +157,8 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+---
 
 ### 🔝 Top Contributed Repos
 
