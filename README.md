@@ -126,12 +126,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=KUSHAL-31&cc=22272e&tc=37BCF6&ic=fff&bc=0000"/>
+  <img width="55%" src="https://github-stats-alpha.vercel.app/api?username=KUSHAL-31&cc=22272e&tc=37BCF6&ic=fff&bc=0000"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&layout=compact"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=KUSHAL-31&theme=tokyonight&hide_border=false"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=KUSHAL-31&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
