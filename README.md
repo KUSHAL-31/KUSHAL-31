@@ -126,8 +126,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=KUSHAL-31&cc=22272e&tc=37BCF6&ic=fff&bc=0000"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL-31&theme=tokyonight&hide_border=false&layout=compact"/>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAL-31&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KUSHAL-31&theme=tokyonight&no-frame=true&margin-w=6&column=4"/>
 </p>
 
 ---
@@ -147,8 +147,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSHAL-31&theme=tokyo-night&hide_border=false"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSHAL-31&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
 
 ---
 
@@ -163,7 +164,7 @@
 ### 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KUSHAL-31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=KUSHAL-31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
