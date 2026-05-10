@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kushalsoni.tech/" target="_blank">
+  <a href="https://kushalsoni.online/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-kushalsoni.tech-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kushal-soni/" target="_blank">
