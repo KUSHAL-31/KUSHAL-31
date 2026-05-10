@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://kushalsoni.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kushalsoni.tech-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-kushalsoni.online-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kushal-soni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
