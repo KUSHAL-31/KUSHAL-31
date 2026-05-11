@@ -36,7 +36,7 @@
 - 🤝 Open to collaborate on **SaaS products, developer tooling, and backend-heavy systems**
 - 🌱 Currently exploring **Data Engineering** and **LLM-powered applications**
 - 🎓 B.E. Information Technology — **CGPA 9.02/10**, Rajiv Gandhi Institute of Technology, Mumbai University
-- 💻 Portfolio: <a href="https://kushalsoni.tech/" target="_blank">kushalsoni.tech</a>
+- 💻 Portfolio: <a href="https://kushalsoni.online/" target="_blank">kushalsoni.online</a>
 
 ---
 
@@ -58,7 +58,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-soni/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_kushal.31/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kushalsoni.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://kushalsoni.online/)
 
 ---
 
